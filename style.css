@@ -1,0 +1,29 @@
+ body {
+        font-family: sans-serif;
+       
+        font-size: 18px;
+      }
+
+      h1 {
+       
+color: darkblue;
+      }
+
+      li {
+        border: 1px solid lightgray;
+       
+padding: 12px;
+       
+margin: 8px;
+      }
+
+      a {
+        background-color: darkblue;
+        color: white;
+       
+padding: 12px;
+        
+text-decoration: none;
+        
+display: inline-block;
+      }
